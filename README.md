@@ -25,6 +25,6 @@ If you have any questions feel free email or open an issue on github.
 
 
 ## Some details
-* The code is written for Python 3.9
+* The code is written for Python 3.1
 * Back light is needed to do the image processing of taylor-cone
 
