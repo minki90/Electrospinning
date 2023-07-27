@@ -10,7 +10,7 @@ position = 0,0, temperature =25 degree celcius, flow rate=0 ul/min, voltage=0, e
 This program can maintain stable taylor-cone during the spinning by PID contorl.
 
 ## Screenshot
-![](Screenshot.png)
+![](gui.jpg)
 
 ## Support
 If you have any questions feel free email or open an issue on github.
