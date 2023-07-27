@@ -15,10 +15,10 @@ This program can maintain stable taylor-cone during the spinning by PID contorl.
 
 ## Hardware List
 * High voltage power supply - PS364(stanford research systems) X2
-* temperature controller - Omega platinum series(omega) X1
-* syringe pump - PHD ULTRA(Harvard apparatus) X3
-* linear stage - ESP301(Newport) X2
-* camera - USB camera X1
+* Temperature controller - Omega platinum series(omega) X1
+* Syringe pump - PHD ULTRA(Harvard apparatus) X3
+* Linear stage - ESP301(Newport) X2
+* Camera - USB camera X1
 
 ## Support
 If you have any questions feel free email or open an issue on github.
